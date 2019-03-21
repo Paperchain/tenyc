@@ -1,3 +1,4 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Token Engineering NYC"
+disableKinds = ["taxonomyTerm", "section", "home"]
